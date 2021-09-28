@@ -1,1 +1,1 @@
-
+**Amazon Web Services (AWS)** is a pay-as-you-go cloud computing service that delivers computing power, database storage, applications, and other IT resources on demand through the internet. It offers Infrastructure as a Service (IaaS) as well as Platform as a Service (PaaS) (PaaS).
