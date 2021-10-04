@@ -1,7 +1,8 @@
 **Amazon Elastic Search** is a service managed by amazon that makes it easy to deploy, operate, and scale Elastic Search clusters in the AWS cloud. 
 
 **Usage if Amazon Elastic Search**
-- 
+- IOT and Mobile
+- Application monitoring and Root Cause Analysis (RCA)
 
 **AWS Lambda**: This is a service that allows us to upload a function to AWS and pay for it each time it is performed or called.
 
