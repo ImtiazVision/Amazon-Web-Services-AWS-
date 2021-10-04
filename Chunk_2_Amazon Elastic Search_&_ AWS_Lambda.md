@@ -3,6 +3,8 @@
 **Usage if Amazon Elastic Search**
 - IOT and Mobile
 - Application monitoring and Root Cause Analysis (RCA)
+- Security Information and Event Management
+- Business and Clickstream Analysis
 
 **AWS Lambda**: This is a service that allows us to upload a function to AWS and pay for it each time it is performed or called.
 
