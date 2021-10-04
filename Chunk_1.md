@@ -4,6 +4,8 @@ IaaS allows businesses to use Amazon Web Services instead of building and managi
 
 On the other side, Platform as a Service (PaaS) eliminates the need for your company to handle underlying platforms such as databases, streaming services, and so on.
 
+Moreover, **Software as a Service (SaaS)** provides a completed product that in run and managed by the service provider in most end user application. 
+
 **Benefits of AWS** 
 
 - Keep our data safe
