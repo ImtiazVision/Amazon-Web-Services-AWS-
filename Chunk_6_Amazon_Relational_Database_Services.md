@@ -8,3 +8,9 @@
 - Available and durable
 - Highly scalable
 - Simple to implement
+
+**Use Cases** : 
+
+- Mobile and web applications
+- Mobile and online games
+- Ecommerce applications
