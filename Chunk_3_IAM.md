@@ -1,4 +1,4 @@
-**IAM** Allow  us to control who has access to AWS resources and what degree of access they have. When considering IAM, keep the following factors in mind:-
+**IAM** allow  us to control who has access to AWS resources and what degree of access they have. When considering IAM, keep the following factors in mind:-
 
 IAM isn't limited to a certain location or state.
 
