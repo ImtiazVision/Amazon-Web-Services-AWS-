@@ -1,1 +1,3 @@
 **AWS Lambda** : is best suited for tiny, static code snippets. Lambda functions are part of the infrastructure, not the application. One of our favorite ways to utilize Lambda is as a plugin system for other AWS services like S3, ALB, CloudFormation, CloudFront, Kinesis, CloudWatch, etc.
+
+**CloudFormation** : is almost often used in AWS. It allows us to create and change AWS objects without having to use the terminal or write fragile scripts. With practice, the time savings quickly outweigh the initial outlay. Even for developers, the ability to neatly deconstruct and reconstruct our AWS setup in one click is priceless.
