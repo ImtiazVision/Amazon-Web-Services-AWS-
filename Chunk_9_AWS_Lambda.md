@@ -1,1 +1,1 @@
-Lambda is best suited for tiny, static code snippets. Lambda functions are part of the infrastructure, not the application. One of our favorite ways to utilize Lambda is as a plugin system for other AWS services like S3, ALB, CloudFormation, CloudFront, Kinesis, CloudWatch, etc.
+**AWS Lambda** : is best suited for tiny, static code snippets. Lambda functions are part of the infrastructure, not the application. One of our favorite ways to utilize Lambda is as a plugin system for other AWS services like S3, ALB, CloudFormation, CloudFront, Kinesis, CloudWatch, etc.
