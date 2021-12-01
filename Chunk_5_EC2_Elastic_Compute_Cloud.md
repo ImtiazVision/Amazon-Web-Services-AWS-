@@ -9,3 +9,6 @@ If you wanted an app server or a database server in the old days, you had to hir
 
 
 With **EC2**, you can do this with a single click. This also implies that, as a beginning, you won't have to pay for all of the equipment up front.
+
+
+EC2 allows us to quickly deploy a whole computer in the cloud. The good thing about EC2 is that our computer will be extremely comparable to ours. If we can run our software on our machine, we can probably run it on EC2. Unlike other computation platforms (like Lambda), we don't have to modify our application to our host.
