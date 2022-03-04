@@ -14,3 +14,12 @@ Amazon Elastic Kubernetes Service (Amazon EKS) enables us to start, operate, and
 - Batch processing
 - Web applications
 - Big data
+
+### Features : 
+
+- Managed Kubernetes Clusters
+- Managed Control Plane
+- Service Integrations
+- Hosted kubernetes Console
+- Networking of Security
+- Load balancing
