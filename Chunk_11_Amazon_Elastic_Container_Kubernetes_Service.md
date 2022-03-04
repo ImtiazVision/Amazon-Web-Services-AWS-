@@ -6,3 +6,11 @@ Amazon Elastic Kubernetes Service (Amazon EKS) enables us to start, operate, and
 - Enhance availability and visibility.
 - Our resources are effectively provisioned and scaled.
 - As a result, the kubernetes environment becomes more secure.
+
+### Use Cases: 
+
+- Hybrid deployment
+- Machine Learning
+- Batch processing
+- Web applications
+- Big data
