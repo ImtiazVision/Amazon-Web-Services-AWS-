@@ -8,3 +8,9 @@ The AWS serverless application repository is a repository for serverless applica
 - Easily manage applications
 - Reuse without rebuilding existing app
 - Ensure best practices
+
+### Features :
+
+- It allows developers to save and distribute reusable programs.
+- It simplifies the assembly and deployment of serverless systems in powerful new ways.
+- Because it is a serverless repository, it does not need to clone, develop, package, or publish source code to AWS before deploying. 
