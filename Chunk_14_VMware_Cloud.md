@@ -17,3 +17,12 @@ VMware cloud on AWS is a jointly developed cloud offering by AWS and VMware that
 - Provide disaster recovery as a service
 - It brings our application up to date
 - It increases the size of our data center
+
+### Features : 
+
+- Integration of AWS Native Services
+- Cloud infrastructure built from bare metal
+- Security-enhanced dedicated networking
+- Integration of third-party software
+- Flexible storage choices for disaster recovery
+- Transitioning to virtual machines
