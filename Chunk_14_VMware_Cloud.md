@@ -12,3 +12,8 @@ VMware cloud on AWS is a jointly developed cloud offering by AWS and VMware that
 - Increased accessibility
 
 ### Examples of application : 
+
+- Increase the speed of cloud migration
+- Provide disaster recovery as a service
+- It brings our application up to date
+- It increases the size of our data center
