@@ -8,3 +8,19 @@ AWS outposts is a fully managed service that provides the same AWS infrastructur
 - Store and process data on premises
 - Truly consistent hybrid experience
 - Fully managed infrastructure 
+
+
+### Use Cases: 
+
+- Low-latency compute
+- Data residency
+- Local data processing
+- Migration and Modernization
+
+### Features : 
+
+- Compute and storage
+- Networking
+- AWS services on Outposts
+- AWS tools
+- Security and compliance with high availability
