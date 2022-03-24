@@ -6,3 +6,5 @@ AWS outposts is a fully managed service that provides the same AWS infrastructur
 
 - Run AWS Services on premises
 - Store and process data on premises
+- Truly consistent hybrid experience
+- Fully managed infrastructure 
