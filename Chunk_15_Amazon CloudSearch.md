@@ -11,3 +11,9 @@
 - High performance
 - Secure, fully-managed, and cost-effective
 
+### Features : 
+
+- Geospatial search
+- Autocomplete suggestion
+- Free text, and Boolean search
+- Supports 34 languages and has popular search features 
