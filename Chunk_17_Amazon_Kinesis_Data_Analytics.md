@@ -12,3 +12,9 @@
 - Pay per usage
 - With Apache Flint, we can create powerful streaming apps
 - Real-time processing power
+
+### Features :
+
+- Serverless
+- Automatic elasticity with pay-as-you-go pricing
+- Streaming processing applications using Apache Flink that is open source and has flexible APIs
