@@ -9,3 +9,10 @@
 - It is safe and secure
 - Simple to use at a cheap cost
 - Elastic
+
+**Examples of Use**:
+
+- Real time analytics
+- Mobile data capture
+- Gaming data feed
+- Log and event data collection
