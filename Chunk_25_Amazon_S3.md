@@ -17,3 +17,12 @@
 - Archive
 - Disaster recovery (DR)
 - Hybrid cloud storage
+
+### Features 
+
+- Data transfer and performance
+- Storage access
+- Data processing
+- Storage analytics and insights
+- Storage management and monitoring
+- Access management and security
