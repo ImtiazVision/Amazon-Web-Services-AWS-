@@ -9,3 +9,11 @@
 - The most widely used cloud storage service
 - Superior security, compliance, and auditing capabilities
 - Manage data and access restrictions with ease
+
+### Example of Use
+
+- Cloud-native applications
+- Data lakes and big data analytics
+- Archive
+- Disaster recovery (DR)
+- Hybrid cloud storage
