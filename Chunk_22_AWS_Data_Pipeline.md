@@ -9,3 +9,12 @@
 - Scalable
 - Ease of use
 - Low cost and transparent
+
+### Examples of usage
+
+- Data load and extracts
+- ETL unstructured data
+- ETL data to Amazon Redshift
+- Move data to cloud
+- Load AWS Log Data to Amazon Redshift
+- Amazon Dynamo Backup and Recovery
