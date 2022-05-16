@@ -8,3 +8,12 @@
 - Highly secure and available
 - Fully managed and compatible
 - Elastic stream processing
+
+### Features 
+
+- Open source
+- Lowest cost
+- Scalable and configurable
+- Serverless
+- Deeply integrated
+
