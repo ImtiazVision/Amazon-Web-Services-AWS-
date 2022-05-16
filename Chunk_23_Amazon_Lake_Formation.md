@@ -8,3 +8,9 @@
 - Provide self-service access to data
 - Build data lakes quickly
 
+### Features 
+
+- Import data from AWS databases, external services, and other AWS services to easily create data lakes
+- Simplify security management, enforce encryption, define and manage access controls
+- Provide self-service access to data, enable self-service access
+- Discover relevant data for analysis
