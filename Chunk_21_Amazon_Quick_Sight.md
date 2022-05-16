@@ -8,3 +8,11 @@
 - Incorporate Business Intelligence (BI) into our application
 - Scale from tens of thousands to hundreds of thousands of users
 - Ask questions about our data and receive answers
+
+### Features 
+
+- Build end to end BI solutions
+- Embedded analytics
+- Leverage Amazon SageMaker models
+- Discover hidden insights
+- Pay only for what we use
