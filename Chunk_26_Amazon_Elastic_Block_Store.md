@@ -11,3 +11,11 @@
 - High Performance 
 - Unlimited scalability 
 
+### Examples of use
+
+- Big data analytics
+- NoSQL database
+- Relational database
+- Enterprize applications
+- Business continuity
+- File system and media workflows
