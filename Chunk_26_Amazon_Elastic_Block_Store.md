@@ -28,3 +28,9 @@ Amazon EBS provides the following volume types:
   - Provisioned IOPS SSD
   - Throughput Optimized HDD
   - Cold HDD
+
+We can generate OS encrypted EBS volumes to fulfill a variety of data-at-rest encryption needs for regulated/audited data and applications.
+
+We can also take snapshots of EBS volumes at a certain time and store them on Amazon S3.
+
+Snapshots secure data for long-term durability and can be used to create fresh EBS volumes.
