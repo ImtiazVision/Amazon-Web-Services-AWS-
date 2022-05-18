@@ -21,4 +21,10 @@
 - File system and media workflows
 
 
+### Features 
 
+Amazon EBS provides the following volume types: 
+  - General purpose SSD
+  - Provisioned IOPS SSD
+  - Throughput Optimized HDD
+  - Cold HDD
