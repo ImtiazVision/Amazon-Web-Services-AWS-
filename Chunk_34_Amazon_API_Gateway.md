@@ -11,3 +11,13 @@
 - Performance at any scale
 - RESTful API options
 
+### Features 
+
+- AWS authorization
+- Easy API creation and deployment
+- Support for RESTful APIs and web socket APIs
+- Resiliency
+- API operations monitoring
+- Private integrations with AWS ELB and AWS cloud map
+- SDK generation
+- API lifecycle management
