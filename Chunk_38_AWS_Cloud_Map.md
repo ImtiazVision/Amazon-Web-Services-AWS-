@@ -12,3 +12,11 @@
 - Continous integration and delivery
 - Service discovery
 - Automated health monitoring
+
+### Features
+
+- Access control
+- Fully managed
+- Assign custom attributes
+- Discover resources via API calls or DNS queries
+- Deep integration with AWS container services
