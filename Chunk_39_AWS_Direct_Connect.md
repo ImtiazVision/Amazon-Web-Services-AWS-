@@ -8,3 +8,10 @@
 - Connection options that are adaptable
 - Consistent network performance
 - Protect data in transit
+
+### Examples of use
+
+- Working with large datasets
+- Real-time applications
+- Hybrid connectivity
+
