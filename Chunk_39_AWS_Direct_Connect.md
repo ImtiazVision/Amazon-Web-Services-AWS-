@@ -15,3 +15,8 @@
 - Real-time applications
 - Hybrid connectivity
 
+### Features
+
+- Availability 
+- Supports AWS Transit Gateway
+- Enables failover testing
