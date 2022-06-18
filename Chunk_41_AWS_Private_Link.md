@@ -7,3 +7,16 @@
 - Accelerate our cloud migration
 - Simplify network management
 - Secure network traffic
+
+### Example of use
+
+- Transition to hybrid cloud
+- Ensure regulatory compliance
+- Access SaaS apps safely
+
+### Features
+
+- Using AWS Private Link to access services
+- Service sharing through AWS Private Link
+- AWS marketplace integration
+- Connecting to our on-premise applications in a secure manner
