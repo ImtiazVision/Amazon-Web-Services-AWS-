@@ -8,3 +8,9 @@
 - Better security
 - Flexible multicast
 - Improved connections
+
+### Examples of use
+
+- Smoothly respond to spikes in demand
+- Host multicast application in the cloud
+- Deliver applications around the world
