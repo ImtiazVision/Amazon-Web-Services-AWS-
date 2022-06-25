@@ -14,3 +14,13 @@
 - Smoothly respond to spikes in demand
 - Host multicast application in the cloud
 - Deliver applications around the world
+
+### Features 
+
+- Monitoring, management, multicast
+- Feature interoperability
+- Automated provisioning
+- Transit gateway connect
+- Single management portal
+- Security, inter-region peering
+- Edge connectivity, routing
