@@ -8,7 +8,11 @@
 
 2. **AWS Site-to-Site VPN**: The AWS Site-to-Site VPN service establishes a secure link between our data center or branch office and our AWS cloud resources.
 
-### Features: 
+### Features
 
-1. **AWS Site to Site VPN**: 
-    - 
+AWS Site to Site VPN : 
+    - Monitoring
+    - High availability
+    - Secure connectivity
+    - Accelerated Site-to-Site VPN
+    - Network Address Translation Traversal
