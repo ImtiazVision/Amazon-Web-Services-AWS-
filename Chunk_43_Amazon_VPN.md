@@ -17,3 +17,10 @@ AWS Site to Site VPN :
     - Secure connectivity
     - Accelerated Site-to-Site VPN
     - Network Address Translation Traversal
+AWS Client VPN Features :
+
+- Authorization
+- Secure Connectivity
+- Authentication
+- Compatibility with our employees devices
+- Connection Management
