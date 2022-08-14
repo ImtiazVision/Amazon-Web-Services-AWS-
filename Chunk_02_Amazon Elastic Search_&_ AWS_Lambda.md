@@ -1,6 +1,6 @@
 **Amazon Elastic Search** is a service managed by amazon that makes it easy to deploy, operate, and scale Elastic Search clusters in the AWS cloud. 
 
-**Usage if Amazon Elastic Search**
+**Usage of Amazon Elastic Search**
 - IOT and Mobile
 - Application monitoring and Root Cause Analysis (RCA)
 - Security Information and Event Management
