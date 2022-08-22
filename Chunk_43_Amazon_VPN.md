@@ -12,11 +12,12 @@
 
 AWS Site to Site VPN : 
 
-    - Monitoring
-    - High availability
-    - Secure connectivity
-    - Accelerated Site-to-Site VPN
-    - Network Address Translation Traversal
+ - Monitoring
+ - High availability
+ - Secure connectivity
+ - Accelerated Site-to-Site VPN
+ - Network Address Translation Traversal
+ 
 AWS Client VPN Features :
 
 - Authorization
