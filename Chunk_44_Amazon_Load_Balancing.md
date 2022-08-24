@@ -8,3 +8,11 @@
 - Network Load Balancer
 - Classic Load Balancer
 - Application Load Balancer
+
+### Benefits : 
+
+- Security
+- Integration and global reach
+- High availability and elasticity
+- Robust monitoring and visibility
+- Feature breadth
