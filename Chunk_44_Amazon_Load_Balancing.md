@@ -9,10 +9,17 @@
 - Classic Load Balancer
 - Application Load Balancer
 
-### Benefits : 
+### Benefits of Usage : 
 
 - Security
 - Integration and global reach
 - High availability and elasticity
 - Robust monitoring and visibility
 - Feature breadth
+
+### Examples of Usage : 
+
+- Building a hybrid cloud
+- Migrating to AWS
+- Modernizing applications with serverless and containers
+- Scaling third-party virtual appliances 
