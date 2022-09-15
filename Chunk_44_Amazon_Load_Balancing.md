@@ -23,3 +23,10 @@
 - Migrating to AWS
 - Modernizing applications with serverless and containers
 - Scaling third-party virtual appliances 
+
+### Features : 
+
+- High availability
+- Security
+- High throughput
+- Product comparisons
