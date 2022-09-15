@@ -30,3 +30,6 @@
 - Security
 - High throughput
 - Product comparisons
+- Delete protection
+- Operational monitoring
+- Sticky sessions
