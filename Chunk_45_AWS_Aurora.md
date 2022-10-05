@@ -7,3 +7,6 @@
 - Highly Secure
 - High availability and durability
 - High performance and scalability
+- Fully managed
+- Migration support
+- MySQL and PostgreSQL compatible
